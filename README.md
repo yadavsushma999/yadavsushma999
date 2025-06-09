@@ -56,7 +56,7 @@
 
 - 🔧 **Auto Garage Website** – Built with React + Vite + Tailwind, supports dark/light themes & Google Calendar booking.
 - 📦 **Inventory Chatbot** –Full CRUD inventory system using Next.js and MongoDB.
-- 🔐 **Library Management System** – Role-based login with NextJs, Neon & Tailwind UI.
+- 🔐 **Library Management System** – Role-based login with NextJs, Neon Serverless Postgres & Tailwind UI.
 
 ---
 
