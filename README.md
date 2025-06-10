@@ -54,8 +54,8 @@
 
 ## 📌 Projects Highlights
 
-- 🔧 **Auto Garage Website** – Built with React + Vite + Tailwind, supports dark/light themes & Google Calendar booking.
-- 📦 **Inventory Chatbot** –Full CRUD inventory system using Next.js and MongoDB.
+- 🔧 **Auto Garage Website** – Built with React + Vite + Tailwind, supports dark/light themes & Google Calendar booking. (Static Website)
+- 📦 **Inventory Chatbot** –Full CRUD inventory system using Next.js and MongoDB. (Deployed on Vercel - Currently Working...)
 - 🔐 **Library Management System** – Role-based login with NextJs, Neon Serverless Postgres & Tailwind UI.
 
 ---
