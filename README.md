@@ -4,7 +4,7 @@
 <h3 align="center">💻 Frontend-Focused Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Crafting+modern+UIs+with+React+%50+Tailwind;Next.js+Explorer+🚀;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+🧠;Building+End-to-End+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Crafting+modern+UIs+with+React+%20+Tailwind;Next.js+Explorer+🚀;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+🧠;Building+End-to-End+Solutions" />
 </p>
 
 ---
