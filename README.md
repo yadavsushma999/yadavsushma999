@@ -4,7 +4,7 @@
 <h3 align="center">💻 Frontend-Focused Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Crafting+modern+UIs+with+React+%26+Tailwind;Next.js+Explorer+🚀;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+🧠;Building+End-to-End+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Crafting+modern+UIs+with+React+%50+Tailwind;Next.js+Explorer+🚀;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+🧠;Building+End-to-End+Solutions" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 🎯 **Auto Garage Website**  
 > Static website built with React + Vite + Tailwind. Includes dark/light mode toggle and Google Calendar integration.
-> 🔗 [https://yadavsushma999.github.io/HappyMotors2/#/]
+> 🔗 *Deployed on Github Pages* [https://yadavsushma999.github.io/HappyMotors2/#/]
 
 📦 **Inventory Chatbot System**  
 > Full-stack CRUD app built using Next.js + MongoDB. Smart chatbot interface for inventory tracking.  
