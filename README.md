@@ -48,10 +48,11 @@
 
 🎯 **Auto Garage Website**  
 > Static website built with React + Vite + Tailwind. Includes dark/light mode toggle and Google Calendar integration.
+> 🔗 [https://yadavsushma999.github.io/HappyMotors2/#/]
 
 📦 **Inventory Chatbot System**  
 > Full-stack CRUD app built using Next.js + MongoDB. Smart chatbot interface for inventory tracking.  
-> 🔗 *Deployed on Vercel*
+> 🔗 *Deployed on Vercel*  [https://inventory-management-navy.vercel.app/]
 
 📚 **Library Management System**  
 > Role-based access login. Built with Next.js, Neon Serverless PostgreSQL, and Tailwind UI.
