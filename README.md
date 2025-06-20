@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Sushma Yadav</h1>
 <h3 align="center">💻 Frontend-Focused Full Stack Web Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Crafting+modern+UIs+with+React+%20+Tailwind;Next.js+Explorer+🚀;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+🧠;Building+End-to-End+Solutions" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Crafting+modern+UIs+with+React+%26+Tailwind;Next.js+Explorer+%F0%9F%9A%80;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+%F0%9F%A7%A0;Building+End-to-End+Solutions)
+
 
 ---
 
