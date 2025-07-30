@@ -76,11 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsushma999&layout=compact&theme=radical&hide_border=true&exclude_repo=template-c-project,another-old-repo" />
 </p>
 
-<p align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsushma999&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
