@@ -52,7 +52,7 @@
 > Static website built with React + Vite + Tailwind. Includes dark/light mode toggle and Google Calendar integration.  
 > 🔗 *Deployed on GitHub Pages:* [https://yadavsushma999.github.io/HappyMotors2/#/]
 
-📦 **Inventory Chatbot System**  
+📦 **Inventory Management System**  
 > Full-stack CRUD app built using Next.js + MongoDB. Smart chatbot interface for inventory tracking.  
 > 🔗 *Deployed on Vercel:* [https://inventory-management-navy.vercel.app/]
 
