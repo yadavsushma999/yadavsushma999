@@ -70,18 +70,6 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsushma999&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadavsushma999&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: [www.linkedin.com/in/sushma-yadav-57666826a](https://www.linkedin.com/in/sushma-yadav-57666826a)
