@@ -1,13 +1,13 @@
 <!-- GitHub Profile README -->
 
+<!-- GitHub Profile README -->
+
 <h1 align="center">Hi 👋, I'm Sushma Yadav</h1>
 <h3 align="center">💻 Frontend-Focused Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Crafting+modern+UIs+with+React+%26+Tailwind;Next.js+Explorer+%F0%9F%9A%80;Prisma+%26+Drizzle+ORM+User;Always+Learning+New+Tech+%F0%9F%A7%A0;Building+End-to-End+Solutions" alt="Typing SVG" />
 </p>
-
-
 
 ---
 
@@ -49,12 +49,12 @@
 ## 🛠️ Project Highlights
 
 🎯 **Auto Garage Website**  
-> Static website built with React + Vite + Tailwind. Includes dark/light mode toggle and Google Calendar integration.
-> 🔗 *Deployed on Github Pages* [https://yadavsushma999.github.io/HappyMotors2/#/]
+> Static website built with React + Vite + Tailwind. Includes dark/light mode toggle and Google Calendar integration.  
+> 🔗 *Deployed on GitHub Pages:* [https://yadavsushma999.github.io/HappyMotors2/#/]
 
 📦 **Inventory Chatbot System**  
 > Full-stack CRUD app built using Next.js + MongoDB. Smart chatbot interface for inventory tracking.  
-> 🔗 *Deployed on Vercel*  [https://inventory-management-navy.vercel.app/]
+> 🔗 *Deployed on Vercel:* [https://inventory-management-navy.vercel.app/]
 
 📚 **Library Management System**  
 > Role-based access login. Built with Next.js, Neon Serverless PostgreSQL, and Tailwind UI.
@@ -65,16 +65,27 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yadavsushma999&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=yadavsushma999&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsushma999&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsushma999&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yadavsushma999&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 Linked In: www.linkedin.com/in/sushma-yadav-57666826a
-- 📧 Email: yadavsushma313@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/sushma-yadav-57666826a](https://www.linkedin.com/in/sushma-yadav-57666826a)
+- 📧 Email: yadavsushma313@gmail.com
 
 ---
 
