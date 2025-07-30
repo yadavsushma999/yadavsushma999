@@ -61,13 +61,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavsushma999&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavsushma999&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsushma999&layout=compact&theme=radical" />
+  <!-- Profile trophies: clean and beautiful -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yadavsushma999&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+<p align="center">
+  <!-- GitHub profile stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavsushma999&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
+  
+  <!-- Most used languages (excluding noisy repos like C-heavy templates) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsushma999&layout=compact&theme=radical&hide_border=true&exclude_repo=template-c-project,another-old-repo" />
+</p>
+
+<p align="center">
+  <!-- Contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavsushma999&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
