@@ -80,7 +80,6 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [www.linkedin.com/in/sushma-yadav-57666826a](https://www.linkedin.com/in/sushma-yadav-57666826a)
 - 📧 Email: yadavsushma313@gmail.com
 
 ---
